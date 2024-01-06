@@ -1,6 +1,6 @@
 ## **1. Test Doubles**
  
-The project package com.mockito.juzyz.testdoubletypes contains examples of the usage of the following test doubles:
+The project package **com.mockito.juzyz.testdoubletypes** contains examples of the usage of the following test doubles:
 
 **Fakes** are objects that have working implementations, but not same as production one. Usually, they take some shortcut and have simplified version of production code.
 
