@@ -1,4 +1,4 @@
-package com.junit.juzyz;
+package com.junit.juzyz.bookstore;
 
 public class BookStore {
 //    Not  yet implemented
