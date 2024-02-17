@@ -24,12 +24,12 @@ public class BookStoreTest {
     @BeforeAll
     @AfterAll
     @AfterEach
-    @ValueSource
+    @ValueSourceDemo
     @NullSource
     @EmptySource
     @NullEmptySource
     @CsvSource
-    @CsvFileSource
+    @CsvFileSourceDemo
     @EnumSource
     @MethodSource
     @RepeatedTest
