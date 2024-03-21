@@ -117,7 +117,7 @@ mockMvc.perform(MockMvcRequestBuilders
 ```
 ### 6. Junit Tests
 
-Not yet implemented 
+Not yet implemented. 
 
 
 ## Getting Started
